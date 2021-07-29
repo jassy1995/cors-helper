@@ -3,6 +3,7 @@
     "description": "This library is to enable cross site origin sharing",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Taye Abidakun",
@@ -24,9 +25,8 @@
     "autoload": {
         "psr-4":{"CorsHelper\\":"src/"
 
-        }
-            
-            
-    }
+        }      
+    },
+    "require": {}
     
 }
