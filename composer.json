@@ -2,6 +2,7 @@
     "name": "prof/cors-helper",
     "description": "This library is to enable cross site origin sharing",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Taye Abidakun",
@@ -17,7 +18,7 @@
         },
          {
             "name": "Olutoye Abiodun",
-            "email": "olutoyeabiodun@gmail.com"
+            "email": "abiodunolutoye1912@gmail.com"
         }
     ],
     "autoload": {
