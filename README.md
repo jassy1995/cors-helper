@@ -2,7 +2,7 @@
 STEP 1:In the root folder of your file run this command composer require prof/cors-helper
 STEP 2: require CorsHelper at the top(above all your code) e.g use CorsHelper\CorsHelper
 STEP 3: Call function like this CorsHelper::cors();
-This is how the default set up look like,you did not need to do this am just showing your how the default set up look like.
+This is how the default set up look like,you did not need to do this below set up,am just showing you how the default set up look like.
 .................THIS IS THE DEFAULT SETUP....................
 CorsHelper::cors([
 'origin'=>['All origin'],
